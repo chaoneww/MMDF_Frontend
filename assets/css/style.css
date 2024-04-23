@@ -166,6 +166,7 @@ ul.mega_menu_inner li {
 }
 div.offcanvas_menu_wrapper {
   background-color: #28004D;
+  color: white;
 }
 
 /*--!!!!!!!!!!!!!!!!!!!!!****************--*/
@@ -1056,6 +1057,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
 .header_account_area {
   display: flex;
   justify-content: flex-end;
+  color: white;
 }
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .header_account_area {
@@ -1186,6 +1188,7 @@ input:-ms-input-placeholder, textarea:-ms-input-placeholder {
   padding: 5px 22px 5px 22px;
   border: 1px solid transparent;
   border-radius: 20px;
+  color: white;
 }
 .main_menu nav > ul > li > a i {
   margin-left: 3px;
@@ -4397,8 +4400,10 @@ footer {
 
 .breadcrumbs_area {
   background:linear-gradient(to right, #28004D, #28004D, #FFA200);
-  border-bottom: 1px solid #e5e5e5;
-  padding: 50px 0;
+  /* border-bottom: 1px solid #e5e5e5; */
+  /* padding: 50px 0; */
+  /* background-color:white; */
+  padding: 10px 0;
 }
 @media only screen and (max-width: 767px) {
   .breadcrumbs_area {
@@ -4408,9 +4413,11 @@ footer {
 
 .breadcrumb_content {
   text-align: center;
+    color: white;
 }
 .breadcrumb_content h3 {
   font-size: 50px;
+  /* font-size: 16px; */
   line-height: 50px;
   margin-bottom: 9px;
 }
