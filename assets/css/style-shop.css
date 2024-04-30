@@ -1,0 +1,111 @@
+.off_canvars_overlay {
+  background-color: #b0e0e6 !important;
+}
+
+.ion-navicon {
+  color: #b0e0e6 !important;
+}
+
+ul.sub_menu li {
+  color: #28004d !important;
+}
+
+ul.mega_menu_inner li {
+  color: #28004d !important;
+}
+
+.fa-angle-down li {
+  color: #28004d !important;
+}
+
+div.offcanvas_menu_wrapper {
+  background-color: #28004d !important;
+  color: white !important;
+}
+
+div.main_header {
+  background: linear-gradient(to right, #28004d, #28004d, #ffa200) !important;
+}
+
+.footer_top {
+  background: linear-gradient(to right, #28004d, #28004d, #ffa200) !important;
+}
+
+div.footer_bottom {
+  background: rgb(71, 71, 71) !important;
+}
+
+/* 不建議，color 會繼承，購物車和會員都吃到 */
+.header_account_area {
+  color: white !important;
+}
+
+.main_menu nav > ul > li > a {
+  color: white !important;
+}
+
+.product_tab_btn ul li a {
+  border: 1px solid #070707 !important;
+  color: #28004d !important;
+}
+
+.product_thumb {
+  border-top-left-radius: 30px !important;
+  border-top-right-radius: 30px !important;
+}
+
+.swatches-colors ul li a.color3 {
+  background: #f58020 !important;
+}
+.swatches-colors ul li a.color4 {
+  background: #b8b8af !important;
+}
+.swatches-colors ul li a.color5 {
+  background: #e4ed7e !important;
+}
+.swatches-colors ul li a.color6 {
+  background: #ed6be0 !important;
+}
+.swatches-colors ul li a.color7 {
+  background: brown !important;
+}
+.swatches-colors ul li a.color8 {
+  background: lightblue !important;
+}
+
+footer {
+  color: white !important;
+}
+
+.footer_menu ul li a:hover {
+  color: #f5e237 !important;
+}
+
+.footer_social ul li a {
+  border: 1px solid #ffa200 !important;
+}
+
+.breadcrumbs_area {
+  background: linear-gradient(to right, #28004d, #28004d, #ffa200) !important;
+  padding: 10px 0 !important;
+}
+
+.breadcrumb_content {
+  text-align: center !important;
+  color: white !important;
+}
+
+.breadcrumb_content h3 {
+  font-size: 50px !important;
+  line-height: 50px !important;
+  margin-bottom: 9px !important;
+}
+
+/* 不建議 */
+.col-lg-3.col-md-12 {
+  color: #000 !important;
+}
+/* 不建議 */
+.row.shop_wrapper {
+  color: #000 !important;
+}
